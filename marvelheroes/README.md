@@ -7,6 +7,8 @@ This programs shows Marvel Heroes by buttons in React.
 
 ### `npm start` or  `yarn start`
 
+![alt text](https://github.com/Leone717/ReactProjects/blob/master/marvelheroes/reactmarvelheroes.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

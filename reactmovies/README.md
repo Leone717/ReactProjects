@@ -14,6 +14,7 @@ We use **setState** to add movie titles *Dolittle', id: 'doit76'* after 2000 mil
 
 If you click on the movie name, you will see the name in the console.
 
+![alt text](https://github.com/Leone717/ReactProjects/blob/master/reactmovies/printsrcreen_reactmovies.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
