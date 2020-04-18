@@ -1,0 +1,20 @@
+# Yarn(for post_reacthooks project)
+
+- Install Yarn:
+
+https://classic.yarnpkg.com/en/docs/install#windows-stable
+
+- set up system variables as Yarn_Home
+
+
+yarn create react-app post_reacthooks
+
+yarn start
+
+
+
+
+
+https://jsonplaceholder.typicode.com/
+
+yarn add axios				!!!!
